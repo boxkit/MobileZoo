@@ -1,0 +1,30 @@
+{
+    "bandle":[
+        {
+            "title":"南极",
+            "image":"https://github.com/boxkit/MobileZoo/blob/main/image/bandle.001@2x.png?raw=true"
+            
+        },
+        {
+            "title":"非洲",
+            "image":"https://github.com/boxkit/MobileZoo/blob/main/image/bandle.002@2x.png?raw=true"
+            
+        },
+        {
+            "title":"北极",
+            "image":"https://github.com/boxkit/MobileZoo/blob/main/image/bandle.004@2x.png?raw=true"
+            
+        },
+        {
+            "title":"西藏",
+            "image":"https://github.com/boxkit/MobileZoo/blob/main/image/bandle.005@2x.png?raw=true"
+            
+        },
+        {
+            "title":"可可西里",
+            "image":"https://github.com/boxkit/MobileZoo/blob/main/image/bandle.006@2x.png?raw=true"
+            
+        }
+    ]
+}
+
